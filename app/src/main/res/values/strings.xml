@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Combustíveis</string>
+    <string name="melhor">Qual a melhor opção?</string>
+    <string name="texto">Digite os valores dos combustíveis\n e veja qual o mais rentável.</string>
+    <string name="alcool">Álcool</string>
+    <string name="gasolina">Gasolina</string>
+    <string name="todo">TODO</string>
+    <string name="valores">Valores :</string>
+    <string name="clique">Calcular</string>
+    <string name="aviso">Preencher os valores primeiro!!!</string>
+    <string name="resposta">Pelo preço, a melhor opção é :</string>
+</resources>
